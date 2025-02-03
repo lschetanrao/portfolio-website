@@ -27,14 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "https://x.com/chetan_rao_ls?s=21",
-                "icon": "twitter",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/netlify",
