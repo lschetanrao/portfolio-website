@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HI, I’m a Software DevelopEr'
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: Loves 3 things 1. Food 2. Coffee 3. Travel
     styles:
       self:
         height: auto
