@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HI, I’m CheTAN - Software Engineer'
-    subtitle: ''
+    subtitle: >-
+      7 Years of Crafting Scalable Solutions with Expertise in Full-Stack
+      Development, Creative Problem-Solving, and a Passion for Continuous
+      Learning
     styles:
       self:
         height: auto
