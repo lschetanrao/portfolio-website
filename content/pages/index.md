@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'HI, I’m CheTAN.'
+    title: 'HI, I’m CheTAN - Software Engineer'
     subtitle: Software engi
     styles:
       self:
