@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HI, I’m a Software DevelopEr'
-    subtitle: 'Food, Coffee and Travel'
+    subtitle: ''
     styles:
       self:
         height: auto
