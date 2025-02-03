@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HI, I’m a Software DevelopEr'
-    subtitle: 'oves 3 things Food, Coffee and Travel'
+    subtitle: 'Food, Coffee and Travel'
     styles:
       self:
         height: auto
