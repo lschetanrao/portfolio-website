@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HI, I’m CheTAN - Software Engineer'
-    subtitle: Software engi
+    subtitle: ''
     styles:
       self:
         height: auto
